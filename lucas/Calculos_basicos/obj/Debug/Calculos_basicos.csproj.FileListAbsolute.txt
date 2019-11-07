@@ -1,0 +1,9 @@
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Calculos_basicos\bin\Debug\Calculos_basicos.exe.config
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Calculos_basicos\bin\Debug\Calculos_basicos.exe
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Calculos_basicos\bin\Debug\Calculos_basicos.pdb
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Calculos_basicos\obj\Debug\Calculos_basicos.Form1.resources
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Calculos_basicos\obj\Debug\Calculos_basicos.Properties.Resources.resources
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Calculos_basicos\obj\Debug\Calculos_basicos.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Calculos_basicos\obj\Debug\Calculos_basicos.exe
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Calculos_basicos\obj\Debug\Calculos_basicos.pdb
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_basico\Calculos_basicos\obj\Debug\Calculos_basicos.csprojAssemblyReference.cache
