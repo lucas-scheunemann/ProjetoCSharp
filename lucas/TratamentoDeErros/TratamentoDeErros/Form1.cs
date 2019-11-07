@@ -32,6 +32,12 @@ namespace TratamentoDeErros
 			{
 				MessageBox.Show("Digite apenas inteiros nos espaços", "Catch");
 			}
+
+			finally 
+			{
+				MessageBox.Show("Aperte ok para Sair");
+				Close();
+			}
 		}
 	}
 }
