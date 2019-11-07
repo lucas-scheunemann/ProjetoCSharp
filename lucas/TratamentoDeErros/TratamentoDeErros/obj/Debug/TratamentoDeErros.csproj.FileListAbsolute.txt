@@ -1,0 +1,9 @@
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\TratamentoDeErros\TratamentoDeErros\bin\Debug\TratamentoDeErros.exe.config
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\TratamentoDeErros\TratamentoDeErros\bin\Debug\TratamentoDeErros.exe
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\TratamentoDeErros\TratamentoDeErros\bin\Debug\TratamentoDeErros.pdb
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.Form1.resources
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.Properties.Resources.resources
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.exe
+C:\Users\lucas\Documents\PC\FACULDADE\CURSOS ONLINE\C#_avancado\TratamentoDeErros\TratamentoDeErros\obj\Debug\TratamentoDeErros.pdb
