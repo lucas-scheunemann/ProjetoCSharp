@@ -21,11 +21,16 @@ namespace TratamentoDeErros
 		{
 			int num1, num2, resultado;
 
+			try
 			{
 				num1 = int.Parse(txtValor1.Text);
 				num2 = int.Parse(txtValor2.Text);
 				resultado = num1 + num2;
 				txtResultado.Text = resultado.ToString();
+			}
+			catch (Exception)
+			{
+				MessageBox.Show("Digite apenas inteiros nos espaços", "Catch");
 			}
 		}
 	}
